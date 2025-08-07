@@ -1,13 +1,9 @@
 # DesafiodeLibrosAlura
 Consumo de api Gutendex, que contiene una gran cantidad de distintos textos, donde el usuario puede consultar y bajar los mejores libros, se obtiene gran serie de datos, utilizando técnicamente JSON, con el mapeo de entidades (ORM), para ello Hibernate hace la persistencia de datos (JPA), hacia PostgreSQL o Mysql como base de datos, en este proceso se hace el CRUD para operaciones normales sobre la DB, consultas de los mejores textos, por autor, por fecha u otro requerimiento.
 
-<img width="500" height="500" alt="La magia del saber en los libros"
-
-  src="https://github.com/user-attachments/assets/9d9f2d2b-cee9-4c6c-b61e-80071e189450" />
+<img width="500" height="500" alt="La magia del saber en los libros" src="https://github.com/user-attachments/assets/be90fe43-5dec-4de9-81a1-3ccdfba69781" />
 
 En esta aplicación los usuarios pueden consultar distintos tipos de libros, por tema, autor, año de publicación, resumen analítico, materias consultadas.
-
-https://github.com/user-attachments/assets/5bd3a6d4-1398-458f-bfcc-2010a2e24bff
 Entonces, podemos describir la técnica que se ha estado aplicando en esta parte del curso, que ha sido de grana ayuda para consolidar los conocimientos,con los cuales elaborar la aplicación:
 
 <img width="734" height="438" alt="mapeo de datos" src="https://github.com/user-attachments/assets/f874c925-74ef-4634-84d4-b4d54120fb19" />
